@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I´m Keno Wannke
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I`m Keno Wannke
 ===================================================================================================================================
 
 Student and part-time programmer
@@ -9,13 +9,9 @@ Student and part-time programmer
 * 🌍  I'm based in Bielefeld, Germany
 * 🖥️  See my portfolio at [My website](http://keniwann.github.io/)
 * ✉️  You can contact me at [k.wannke@web.de](mailto:k.wannke@web.de)
-* 🚀  I'm currently working on [improving my website](http://keniwann.github.io/)
+* 🚀  I'm currently working on [to improve my website](http://keniwann.github.io/)
 * 🧠  I'm learning Java BinarySearchTrees
 * ⚡  I love my cats and sports
-
-<a href="https://www.x.com/KenispamsL2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KenispamsL2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
