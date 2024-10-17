@@ -9,7 +9,7 @@ Student and part-time programmer
 * 🌍  I'm based in Bielefeld, Germany
 * 🖥️  See my portfolio at [My website](http://keniwann.github.io/)
 * ✉️  You can contact me at [k.wannke@web.de](mailto:k.wannke@web.de)
-* 🚀  I'm currently working on [to improve my website](http://keniwann.github.io/)
+* 🚀  I'm currently working on [improving my website](http://keniwann.github.io/)
 * 🧠  I'm learning Java BinarySearchTrees
 * ⚡  I love my cats and sports
 
