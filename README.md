@@ -10,7 +10,7 @@ Student and part-time programmer
 * 🖥️  See my portfolio at [My website](http://keniwann.github.io/)
 * ✉️  You can contact me at [k.wannke@web.de](mailto:k.wannke@web.de)
 * 🚀  I'm currently working on [to improve my website](http://keniwann.github.io/)
-* 🧠  I'm learning SQL
+* 🧠  I'm currently learning SQL
 * ⚡  I love my cats and sports
 
 ### Skills
