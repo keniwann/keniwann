@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I`m Keno Wannke
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Student and part-time programmer
+Vocational Training as a Software Developer
 --------------------------------
 
 ;)
@@ -10,7 +10,7 @@ Student and part-time programmer
 * 🖥️  See my portfolio at [My website](http://keniwann.github.io/)
 * ✉️  You can contact me at [k.wannke@web.de](mailto:k.wannke@web.de)
 * 🚀  I'm currently working on [to improve my website](http://keniwann.github.io/)
-* 🧠  I'm currently learning SQL
+* 🧠  I'm currently learning C++
 * ⚡  I love my cats and sports
 
 ### Skills
